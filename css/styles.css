@@ -100,6 +100,8 @@ main {
   margin-top: 28px;
 }
 .section-lp__list {
+  padding-left: 40px;
+  padding-right: 40px;
 }
 .section-lp__item:not(:last-child) {
   margin-bottom: 40px;
@@ -110,10 +112,11 @@ main {
 }
 .section-lp__btn {
   font-family: 'Nunito', sans-serif;
+  font-size: 18px;
   color: #ffffff;
   border: none;
   padding: 10px;
-  min-width: 300px;
+  min-width: 350px;
   cursor: pointer;
 }
 .section-lp__btn--orange {
