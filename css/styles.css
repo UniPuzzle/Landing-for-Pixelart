@@ -118,3 +118,28 @@ img {
 .section-lp__btn--blue:hover {
   background-color: #000053;
 }
+
+/* ============= footer-lp =========== */
+.footer-lp {
+  text-align: center;
+  font-family: Nunito, sans-serif;
+  padding-bottom: 10px;
+  padding-top: 50px;
+}
+.footer-lp__privacy {
+  font-size: 13px;
+}
+.footer-lp__text {
+  color: #333;
+}
+
+.footer-lp__copyright {
+  margin-top: 5px;
+  font-size: 12px;
+  color: #888;
+}
+.footer-lp span {
+  border-left: 1px solid #333333;
+  margin-left: 30px;
+  margin-right: 30px;
+}
